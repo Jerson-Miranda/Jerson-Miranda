@@ -8,43 +8,43 @@
       <tr>
         <!-- Linkedin -->
         <th width="20%">
-          <p>__________________________</p>
+          <p>_______________________</p>
           <a href="https://www.linkedin.com/in/jerson-miranda-b47b3126b/" target="_blank">
-            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/linkedin_480px.png" alt="linkedin" width="32px">
+            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/linkedin_480px.png" alt="linkedin" width="38px">
           </a>
-          <p>__________________________</p>
+          <p>_______________________</p>
         </th>
         <!-- Facebook -->
         <th width="20%">
-          <p>__________________________</p>
+          <p>_______________________</p>
           <a href="https://www.facebook.com/jersonraimirandadiaz" target="_blank"> 
-            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/Facebook_480px.png" alt="facebook" width="32px">
+            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/Facebook_480px.png" alt="facebook" width="38px">
           </a>
-          <p>__________________________</p>
+          <p>_______________________</p>
         </th>
         <!-- Instagram -->
         <th width="20%">
-          <p>___________________________</p>
+          <p>________________________</p>
           <a href="https://www.instagram.com/jersonmiranda_/" target="_blank"> 
-            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/Instagram_480px.png" alt="instagram" width="32px">
+            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/Instagram_480px.png" alt="instagram" width="38px">
           </a>
-          <p>___________________________</p>
+          <p>________________________</p>
         </th>
         <!-- X -->
         <th width="20%">
-          <p>__________________________</p>
+          <p>_______________________</p>
           <a href="https://twitter.com/jersonmiranda_" target="_blank"> 
-            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/Close_480px.png" alt="x" width="32px">
+            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/Close_480px.png" alt="x" width="38px">
           </a>
-          <p>__________________________</p>
+          <p>_______________________</p>
         </th>
         <!-- TikTok -->
         <th width="20%">
-          <p>__________________________</p>
+          <p>_______________________</p>
           <a href="https://www.tiktok.com/jersonmiranda/" target="_blank"> 
-            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/tiktok_480px.png" alt="tiktok" width="32px">
+            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/tiktok_480px.png" alt="tiktok" width="38px">
           </a>
-          <p>__________________________</p>
+          <p>_______________________</p>
         </th>
       </tr>
     </tbody>
@@ -79,9 +79,114 @@
         <tr>
           <th>Frontend</th>
         </tr>
+          <tr>
+          <th>
+            <p>_______________________</p>
+            <a href="https://angular.io/" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/angular_480px.png" alt="angular" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+          <th>
+            <p>_______________________</p>
+            <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/react_480px.png" alt="react" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+          <th>
+            <p>_______________________</p>
+            <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/vue_480px.png" alt="vuejs" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+          <th>
+            <p>_______________________</p>
+            <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/typescript_480px.png" alt="typescript" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+          <th>
+            <p>_______________________</p>
+            <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/bootstrap_480px.png" alt="bootstrap" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+          <th>
+            <p>_______________________</p>
+            <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/javascript_480px.png" alt="javascript" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+          <th>
+            <p>_______________________</p>
+            <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/html_480px.png" alt="html" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+          <th>
+            <p>_______________________</p>
+            <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/css_480px.png" alt="css" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+        </tr>
+      </tbody>
+    </table>
+    <table>
+      <tbody>
+         <tr>
+          <th>Backend</th>
+        </tr>
         <tr>
-          <th>Desarrollo Web</th>
-          <th>Aplicaciones Móviles</th>
+          <th>
+            <p>_______________________</p>
+            <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/spring_480px.png" alt="springboot" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+         <th>
+          <p>_______________________</p>
+          <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/java_480px.png" alt="java" width="80px">
+          </a>
+          <p>_______________________</p>
+          </th>
+         <th>
+          <p>_______________________</p>
+          <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/kotlin_480px.png" alt="kotlin" width="80px">
+          </a>
+          <p>_______________________</p>
+        </th>
+        <th>
+          <p>_______________________</p>
+          <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/python_480px.png" alt="python" width="80px">
+          </a>
+          <p>_______________________</p>
+        </th>
+        <th>
+            <p>_______________________</p>
+            <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+              <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/node_480px.png" alt="node" width="80px">
+            </a>
+            <p>_______________________</p>
+          </th>
+         <th>
+          <p>_______________________</p>
+          <a href="https://github.com/Jerson-Miranda" target="_blank"> 
+            <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/c_480px.png" alt="c" width="80px">
+          </a>
+          <p>_______________________</p>
+        </th>
         </tr>
       </tbody>
     </table>
