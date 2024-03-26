@@ -3,38 +3,48 @@
   <h1>Desarrollador Junior FullStack</h1>
   <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/presentation_banner.png" alt="Banner">
   <!-- Redes Sociales -->
-  <table width="100%">
+  <table>
     <tbody>
       <tr>
         <!-- Linkedin -->
-        <th width="20%" colspan="1">
-          <a href="https://www.linkedin.com/in/jerson-miranda-b47b3126b/" target="_blank"> 
+        <th width="20%">
+          <p>__________________________</p>
+          <a href="https://www.linkedin.com/in/jerson-miranda-b47b3126b/" target="_blank">
             <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/linkedin_480px.png" alt="linkedin" width="32px">
           </a>
+          <p>__________________________</p>
         </th>
         <!-- Facebook -->
-        <th width="20%" colspan="1">
+        <th width="20%">
+          <p>__________________________</p>
           <a href="https://www.facebook.com/jersonraimirandadiaz" target="_blank"> 
             <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/Facebook_480px.png" alt="facebook" width="32px">
           </a>
+          <p>__________________________</p>
         </th>
         <!-- Instagram -->
-        <th width="20%" colspan="1">
-          <a href="https://www.instagram.com/jersonmiranda/" target="_blank"> 
+        <th width="20%">
+          <p>___________________________</p>
+          <a href="https://www.instagram.com/jersonmiranda_/" target="_blank"> 
             <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/Instagram_480px.png" alt="instagram" width="32px">
           </a>
+          <p>___________________________</p>
         </th>
         <!-- X -->
-        <th width="20%" colspan="1">
-          <a href="https://example.com" target="_blank"> 
+        <th width="20%">
+          <p>__________________________</p>
+          <a href="https://twitter.com/jersonmiranda_" target="_blank"> 
             <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/Close_480px.png" alt="x" width="32px">
           </a>
+          <p>__________________________</p>
         </th>
         <!-- TikTok -->
-        <th width="20%" colspan="1">
+        <th width="20%">
+          <p>__________________________</p>
           <a href="https://www.tiktok.com/jersonmiranda/" target="_blank"> 
             <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/tiktok_480px.png" alt="tiktok" width="32px">
           </a>
+          <p>__________________________</p>
         </th>
       </tr>
     </tbody>
@@ -43,7 +53,7 @@
   <!-- Introduccion -->
   <div>
     <h2>Bienvenido a mi perfil  <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/hi_480px.png" alt="hi" width="26px"></h2>
-    <p>¡Hola! Soy un apasionado desarrollador Junior FullStack con experiencia en el desarrollo de software. Me centro en crear soluciones funcionales para web, así como en el desarrollo de aplicaciones móviles y de escritorio.</p>
+    <p>¡Hola! Soy un apasionado Desarrollador Junior FullStack con experiencia en el desarrollo de software. Me centro en crear soluciones funcionales para web, así como en el desarrollo de aplicaciones móviles.</p>
     <table>
       <tbody>
         <tr>
@@ -64,19 +74,17 @@
    <!-- Tecnologias -->
    <div>
     <img src="https://github.com/Jerson-Miranda/Jerson-Miranda/blob/main/tec_banner.png" alt="Banner">
-   <table width="100%">
-    <tbody>
-      <tr>
-        <th width="50%" colspan="1">1</th>
-        <th width="50%" colspan="1">2</th>
-      </tr>
-      <tr>
-        <th width="50%" colspan="1">3</th>
-        <th width="50%" colspan="1">4</th>
-      </tr>
-    </tbody>
-  </table>
-
+     <table>
+      <tbody>
+        <tr>
+          <th>Frontend</th>
+        </tr>
+        <tr>
+          <th>Desarrollo Web</th>
+          <th>Aplicaciones Móviles</th>
+        </tr>
+      </tbody>
+    </table>
   </div>
    <!-- Front -->
    <!-- Back -->
